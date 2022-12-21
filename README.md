@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I am a CS student looking to contribute to software development!<br>
-- 👀 I’m interested in backend software development and love collaborating with others on software projects!
+- 👀 I’m interested in back-end software development and love collaborating with others on software projects!
 - 📫 How to reach me: essawiyusef@gmail.com
 
 ## 🌐 Socials:

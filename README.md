@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 I am a CS student at UVA<br>
-- I’m interested in back-end software development and enjoy collaborating with others on software projects!
+- I’m interested in software development and enjoy collaborating with others on software projects!
+- I love Algorithms and am a teaching assistant for UVA's Algorithm course
 - 📫 How to reach me: essawiyusef@gmail.com
 
 ## 🌐 Socials:
